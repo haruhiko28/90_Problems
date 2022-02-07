@@ -7,3 +7,7 @@
 ポイント：全探索<br>
 参考：https://drken1215.hatenablog.com/entry/2021/06/12/151200
 
+## 003 - Longest Circular Road（★4）
+ポイント：木の直径<br>
+参考：https://drken1215.hatenablog.com/entry/2021/06/12/181400 <br>
+参考：https://algo-logic.info/tree-diameter/
