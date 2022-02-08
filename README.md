@@ -11,3 +11,6 @@
 ポイント：木の直径<br>
 参考：https://drken1215.hatenablog.com/entry/2021/06/12/181400 <br>
 参考：https://algo-logic.info/tree-diameter/
+
+## 004 - Cross Sum（★2）
+参考：https://drken1215.hatenablog.com/entry/2021/07/25/215000
