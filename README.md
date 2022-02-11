@@ -14,3 +14,6 @@
 
 ## 004 - Cross Sum（★2）
 参考：https://drken1215.hatenablog.com/entry/2021/07/25/215000
+
+## 006 - Smallest Subsequence（★5）
+参考：https://drken1215.hatenablog.com/entry/2021/10/10/195200
