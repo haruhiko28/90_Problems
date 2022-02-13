@@ -17,3 +17,7 @@
 
 ## 006 - Smallest Subsequence（★5）
 参考：https://drken1215.hatenablog.com/entry/2021/10/10/195200
+
+## 007 - CP Classes（★3）
+ポイント：二分探索<br>
+参考：https://qiita.com/wihan23/items/5fc929eac7d2be2c9187
