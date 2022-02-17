@@ -25,3 +25,7 @@
 ## 008 - AtCounter（★4）
 ポイント：動的計画法<br>
 参考：https://ebisuke33.hatenablog.com/entry/typical90-4
+
+## 009 - Three Point Angle（★6）
+
+## 010 - Score Sum Queries（★2） 
