@@ -29,3 +29,6 @@
 ## 009 - Three Point Angle（★6）
 
 ## 010 - Score Sum Queries（★2） 
+
+## 011 - Gravy Jobs（★6）
+参考：https://atcoder.jp/contests/typical90/submissions/29028591
