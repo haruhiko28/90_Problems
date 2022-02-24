@@ -32,3 +32,5 @@
 
 ## 011 - Gravy Jobs（★6）
 参考：https://atcoder.jp/contests/typical90/submissions/29028591
+
+## 012 - Red Painting（★4） 
