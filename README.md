@@ -34,3 +34,4 @@
 参考：https://atcoder.jp/contests/typical90/submissions/29028591
 
 ## 012 - Red Painting（★4） 
+参考：https://yukituna.com/3268/
