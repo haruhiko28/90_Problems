@@ -29,9 +29,16 @@
 ## 009 - Three Point Angle（★6）
 
 ## 010 - Score Sum Queries（★2） 
+Done. 
 
 ## 011 - Gravy Jobs（★6）
 参考：https://atcoder.jp/contests/typical90/submissions/29028591
 
 ## 012 - Red Painting（★4） 
 参考：https://yukituna.com/3268/
+参考：蟻本 P81
+
+## 013 - Passing（★5） 
+
+## 014 - We Used to Sing a Song Together（★3） 
+Done. ソートして絶対値の総和を取る.
