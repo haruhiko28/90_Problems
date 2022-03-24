@@ -39,6 +39,8 @@ Done.
 参考：蟻本 P81
 
 ## 013 - Passing（★5） 
+参考：https://qiita.com/toast-uz/items/bf6f142bace86c525532
+参考：蟻本 P96
 
 ## 014 - We Used to Sing a Song Together（★3） 
 Done. ソートして絶対値の総和を取る.
