@@ -44,3 +44,6 @@ Done.
 
 ## 014 - We Used to Sing a Song Together（★3） 
 Done. ソートして絶対値の総和を取る.
+
+## 022 - Cubic Cake（★2）
+GCD
