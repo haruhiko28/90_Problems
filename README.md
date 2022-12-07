@@ -47,3 +47,6 @@ Done. ソートして絶対値の総和を取る.
 
 ## 022 - Cubic Cake（★2）
 GCD
+
+## 024 - Select +／- One（★2）
+DONE
