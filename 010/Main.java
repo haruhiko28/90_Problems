@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class Main {
+    /**
+     * @param args
+     */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -27,5 +30,6 @@ public class Main {
             int R = Integer.parseInt(sc.next());
             System.out.println((sumA[R] - sumA[L-1]) + " " + (sumB[R] - sumB[L-1]));
         }
+        sc.close();
     }
 }
