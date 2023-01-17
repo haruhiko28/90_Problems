@@ -51,3 +51,11 @@ GCD
 
 ## 024 - Select +／- One（★2）
 DONE
+
+## 033 - Not Too Bright（★2）
+
+## 038 - Large LCM（★3） 
+桁が溢れてしまうので、GCDを利用して計算すること
+
+## 044 - Shift and Swapping（★3）
+シフトカウンターを用意することで実際にリストのShiftは行わないこと
