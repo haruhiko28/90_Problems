@@ -59,3 +59,8 @@ DONE
 
 ## 044 - Shift and Swapping（★3）
 シフトカウンターを用意することで実際にリストのShiftは行わないこと
+
+## 075 - Magic For Balls（★3）
+* [公式回答](https://twitter.com/e869120/status/1408195203538690048/photo/1)
+* 参考にさせていただいた記事
+  * [【競プロ典型90問】「075 - Magic For Balls（★3）」解法](https://logicalbear.net/%E3%80%90%E7%AB%B6%E3%83%97%E3%83%AD%E5%85%B8%E5%9E%8B90%E5%95%8F%E3%80%91%E3%80%8C075-magic-for-balls%EF%BC%88%E2%98%853%EF%BC%89%E3%80%8D%E8%A7%A3%E6%B3%95/)
