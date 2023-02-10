@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         long N = sc.nextLong();
+        sc.close();
         long counter = 0; // 因数の数をカウント
         long root = (long) Math.ceil(Math.sqrt(N));
 
